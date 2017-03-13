@@ -1,4 +1,6 @@
 TestClass{
-  testVaribale;
-  testMethod();
+  testVaribale1;
+  testVariable2;
+  testMethod1();
+  testMethod2();
 }
